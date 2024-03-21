@@ -3,8 +3,8 @@ const fs = require('fs')
 global.creator = 'Ardianofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://vinaabotzmd:dians2210@cluster0.kodf1ls.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "no-reply@rizkyydigital.my.id" //email
-global.email_password = "u7YMcUvGphuFdYP" //application password email
+global.your_email = "rizzmodzverifikasi@gmail.com" //email
+global.email_password = "kavseyamffjwecqm" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
